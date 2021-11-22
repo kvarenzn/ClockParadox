@@ -1,0 +1,20 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Clock Paradox
+Name[zh_CN]=时钟悖论
+Comment=An analog clock
+Icon=preferences-system-time
+Type=Service
+X-KDE-ServiceTypes=Plasma/Applet
+
+X-KDE-Library=plasma_applet_tutorial
+X-KDE-PluginInfo-Author=kvarenzn
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=kvarenzn.clockparadox
+X-KDE-PluginInfo-Version=2.0
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-StandAloneApp=true
+
+X-KDE-PluginInfo-Category=Date and Time
+X-KDE-FormFactors=tablet,handset,desktop
